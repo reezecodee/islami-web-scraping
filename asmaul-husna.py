@@ -18,8 +18,8 @@ with open('./data/asmaul-husna.txt', 'w', encoding='utf-8') as file:
                 continue
             
             file.write("{\n")
-            file.write(f"\t urutan: {cell_values[0]} \n")
-            file.write(f"\t latin: {cell_values[1]} \n")
-            file.write(f"\t arab: {cell_values[2]} \n")
-            file.write(f"\t artinya: {cell_values[3]} \n")
+            file.write(f"\t urutan: {cell_values[0]}, \n")
+            file.write(f"\t latin: '{cell_values[1]}', \n")
+            file.write(f"\t arab: '{cell_values[2]}', \n")
+            file.write(f"\t artinya: '{cell_values[3]}', \n")
             file.write("},\n")

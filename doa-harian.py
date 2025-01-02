@@ -32,9 +32,9 @@ with open('./data/doa-harian.txt', 'w', encoding='utf-8') as file:
     i = 1
     for doa in doa_list:
         file.write("{\n")
-        file.write(f"\t urutan: {i}\n")
-        file.write(f"\t namaDoa: {doa['nama']}\n")
-        file.write(f"\t arab: {doa['arab']}\n")
-        file.write(f"\t arti: {doa['arti']}\n")
+        file.write(f"\t urutan: {i},\n")
+        file.write(f"\t namaDoa: '{doa['nama']}',\n")
+        file.write(f"\t arab: '{doa['arab']}',\n")
+        file.write(f"\t arti: '{doa['arti']}',\n")
         file.write("},\n")
         i+=1

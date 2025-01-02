@@ -1,594 +1,594 @@
 {
-	 urutan: 1 
-	 latin: Ar-Rahmânu 
-	 arab: الرَّحْمـٰنُ 
-	 artinya: Yang Maha Pengasih 
+	 urutan: 1, 
+	 latin: 'Ar-Rahmânu', 
+	 arab: 'الرَّحْمـٰنُ', 
+	 artinya: 'Yang Maha Pengasih', 
 },
 {
-	 urutan: 2 
-	 latin: Ar-Raḫîmu 
-	 arab: الرَّحِيْمُ 
-	 artinya: Yang Maha Penyayang 
+	 urutan: 2, 
+	 latin: 'Ar-Raḫîmu', 
+	 arab: 'الرَّحِيْمُ', 
+	 artinya: 'Yang Maha Penyayang', 
 },
 {
-	 urutan: 3 
-	 latin: Al-Maliku 
-	 arab: الْمَلِكُ 
-	 artinya: Yang Maha Merajai/Memerintah 
+	 urutan: 3, 
+	 latin: 'Al-Maliku', 
+	 arab: 'الْمَلِكُ', 
+	 artinya: 'Yang Maha Merajai/Memerintah', 
 },
 {
-	 urutan: 4 
-	 latin: Al-Quddûsu 
-	 arab: الْقُدُّوْسُ 
-	 artinya: Yang Mahasuci 
+	 urutan: 4, 
+	 latin: 'Al-Quddûsu', 
+	 arab: 'الْقُدُّوْسُ', 
+	 artinya: 'Yang Mahasuci', 
 },
 {
-	 urutan: 5 
-	 latin: As-Salâmu 
-	 arab: السَّلاَمُ 
-	 artinya: Yang Maha Memberi Kesejahteraan 
+	 urutan: 5, 
+	 latin: 'As-Salâmu', 
+	 arab: 'السَّلاَمُ', 
+	 artinya: 'Yang Maha Memberi Kesejahteraan', 
 },
 {
-	 urutan: 6 
-	 latin: Al-Mu’minu 
-	 arab: الْمُؤْمِنُ 
-	 artinya: Yang Maha Memberi Keamanan 
+	 urutan: 6, 
+	 latin: 'Al-Mu’minu', 
+	 arab: 'الْمُؤْمِنُ', 
+	 artinya: 'Yang Maha Memberi Keamanan', 
 },
 {
-	 urutan: 7 
-	 latin: Al-Muhaiminu 
-	 arab: الْمُهَيْمِنُ 
-	 artinya: Yang Maha Pemelihara 
+	 urutan: 7, 
+	 latin: 'Al-Muhaiminu', 
+	 arab: 'الْمُهَيْمِنُ', 
+	 artinya: 'Yang Maha Pemelihara', 
 },
 {
-	 urutan: 8 
-	 latin: Al-`Azizu 
-	 arab: الْعَزِيْزُ 
-	 artinya: Yang Memiliki Mutlak Kegagahan 
+	 urutan: 8, 
+	 latin: 'Al-`Azizu', 
+	 arab: 'الْعَزِيْزُ', 
+	 artinya: 'Yang Memiliki Mutlak Kegagahan', 
 },
 {
-	 urutan: 9 
-	 latin: Al-Jabbâru 
-	 arab: الْجَبَّارُ 
-	 artinya: Yang Maha Perkasa 
+	 urutan: 9, 
+	 latin: 'Al-Jabbâru', 
+	 arab: 'الْجَبَّارُ', 
+	 artinya: 'Yang Maha Perkasa', 
 },
 {
-	 urutan: 10 
-	 latin: Al-Mutakabbiru 
-	 arab: الْمُتَكَبِّرُ 
-	 artinya: Yang Maha Megah 
+	 urutan: 10, 
+	 latin: 'Al-Mutakabbiru', 
+	 arab: 'الْمُتَكَبِّرُ', 
+	 artinya: 'Yang Maha Megah', 
 },
 {
-	 urutan: 11 
-	 latin: Al-Khâliqu 
-	 arab: الْخَالِقُ 
-	 artinya: Yang Maha Pencipta 
+	 urutan: 11, 
+	 latin: 'Al-Khâliqu', 
+	 arab: 'الْخَالِقُ', 
+	 artinya: 'Yang Maha Pencipta', 
 },
 {
-	 urutan: 12 
-	 latin: Al-Bâri’u 
-	 arab: الْبَارِئُ 
-	 artinya: Yang Maha Melepaskan 
+	 urutan: 12, 
+	 latin: 'Al-Bâri’u', 
+	 arab: 'الْبَارِئُ', 
+	 artinya: 'Yang Maha Melepaskan', 
 },
 {
-	 urutan: 13 
-	 latin: Al-Mushawwiru 
-	 arab: الْمُصَوِّرُ 
-	 artinya: Yang Maha Membentuk Rupa (makhluknya) 
+	 urutan: 13, 
+	 latin: 'Al-Mushawwiru', 
+	 arab: 'الْمُصَوِّرُ', 
+	 artinya: 'Yang Maha Membentuk Rupa (makhluknya)', 
 },
 {
-	 urutan: 14 
-	 latin: Al-Ghaffaru 
-	 arab: الْغَفَّارُ 
-	 artinya: Yang Maha Pengampun 
+	 urutan: 14, 
+	 latin: 'Al-Ghaffaru', 
+	 arab: 'الْغَفَّارُ', 
+	 artinya: 'Yang Maha Pengampun', 
 },
 {
-	 urutan: 15 
-	 latin: Al-Qahhâru 
-	 arab: الْقَهَّارُ 
-	 artinya: Yang Maha Memaksa 
+	 urutan: 15, 
+	 latin: 'Al-Qahhâru', 
+	 arab: 'الْقَهَّارُ', 
+	 artinya: 'Yang Maha Memaksa', 
 },
 {
-	 urutan: 16 
-	 latin: Al-Wahhâbu 
-	 arab: الْوَهَّابُ 
-	 artinya: Yang Maha Pemberi Karunia 
+	 urutan: 16, 
+	 latin: 'Al-Wahhâbu', 
+	 arab: 'الْوَهَّابُ', 
+	 artinya: 'Yang Maha Pemberi Karunia', 
 },
 {
-	 urutan: 17 
-	 latin: Ar-Razzâqu 
-	 arab: الرَّزَّاقُ 
-	 artinya: Yang Maha Pemberi Rezeki 
+	 urutan: 17, 
+	 latin: 'Ar-Razzâqu', 
+	 arab: 'الرَّزَّاقُ', 
+	 artinya: 'Yang Maha Pemberi Rezeki', 
 },
 {
-	 urutan: 18 
-	 latin: Al-Fattâhu 
-	 arab: الْفَتَّاحُ 
-	 artinya: Yang Maha Pembuka Rahmat 
+	 urutan: 18, 
+	 latin: 'Al-Fattâhu', 
+	 arab: 'الْفَتَّاحُ', 
+	 artinya: 'Yang Maha Pembuka Rahmat', 
 },
 {
-	 urutan: 19 
-	 latin: Al-`Alîmu 
-	 arab: الْعَلِيْمُ 
-	 artinya: Yang Maha Mengetahui (Memiliki Ilmu) 
+	 urutan: 19, 
+	 latin: 'Al-`Alîmu', 
+	 arab: 'الْعَلِيْمُ', 
+	 artinya: 'Yang Maha Mengetahui (Memiliki Ilmu)', 
 },
 {
-	 urutan: 20 
-	 latin: Al-Qâbidlu 
-	 arab: الْقَابِضُ 
-	 artinya: Yang Maha Menyempitkan (makhluknya) 
+	 urutan: 20, 
+	 latin: 'Al-Qâbidlu', 
+	 arab: 'الْقَابِضُ', 
+	 artinya: 'Yang Maha Menyempitkan (makhluknya)', 
 },
 {
-	 urutan: 21 
-	 latin: Al-Bâsithu 
-	 arab: الْبَاسِطُ 
-	 artinya: Yang Maha Melapangkan (makhluknya) 
+	 urutan: 21, 
+	 latin: 'Al-Bâsithu', 
+	 arab: 'الْبَاسِطُ', 
+	 artinya: 'Yang Maha Melapangkan (makhluknya)', 
 },
 {
-	 urutan: 22 
-	 latin: Al-Khâfidlu 
-	 arab: الْخَافِضُ 
-	 artinya: Yang Maha Merendahkan (makhluknya) 
+	 urutan: 22, 
+	 latin: 'Al-Khâfidlu', 
+	 arab: 'الْخَافِضُ', 
+	 artinya: 'Yang Maha Merendahkan (makhluknya)', 
 },
 {
-	 urutan: 23 
-	 latin: Ar-Râfi`u 
-	 arab: الرَّافِعُ 
-	 artinya: Yang Maha Meninggikan (makhluknya) 
+	 urutan: 23, 
+	 latin: 'Ar-Râfi`u', 
+	 arab: 'الرَّافِعُ', 
+	 artinya: 'Yang Maha Meninggikan (makhluknya)', 
 },
 {
-	 urutan: 24 
-	 latin: Al-Mu`izzu 
-	 arab: الْمُعِزُّ 
-	 artinya: Yang Maha Memuliakan (makhluknya) 
+	 urutan: 24, 
+	 latin: 'Al-Mu`izzu', 
+	 arab: 'الْمُعِزُّ', 
+	 artinya: 'Yang Maha Memuliakan (makhluknya)', 
 },
 {
-	 urutan: 25 
-	 latin: Al-Mudzillu 
-	 arab: الْمُذِلُّ 
-	 artinya: Yang Maha Menghinakan (makhluknya) 
+	 urutan: 25, 
+	 latin: 'Al-Mudzillu', 
+	 arab: 'الْمُذِلُّ', 
+	 artinya: 'Yang Maha Menghinakan (makhluknya)', 
 },
 {
-	 urutan: 26 
-	 latin: As-Samî`u 
-	 arab: السَّمِيْعُ 
-	 artinya: Yang Maha Mendengar 
+	 urutan: 26, 
+	 latin: 'As-Samî`u', 
+	 arab: 'السَّمِيْعُ', 
+	 artinya: 'Yang Maha Mendengar', 
 },
 {
-	 urutan: 27 
-	 latin: Al-Bashîru 
-	 arab: الْبَصِيْرُ 
-	 artinya: Yang Maha Melihat 
+	 urutan: 27, 
+	 latin: 'Al-Bashîru', 
+	 arab: 'الْبَصِيْرُ', 
+	 artinya: 'Yang Maha Melihat', 
 },
 {
-	 urutan: 28 
-	 latin: Al-Ḫakamu 
-	 arab: الْحَكَمُ 
-	 artinya: Yang Maha Menetapkan 
+	 urutan: 28, 
+	 latin: 'Al-Ḫakamu', 
+	 arab: 'الْحَكَمُ', 
+	 artinya: 'Yang Maha Menetapkan', 
 },
 {
-	 urutan: 29 
-	 latin: Al-`Adlu 
-	 arab: الْعَدْلُ 
-	 artinya: Yang Mahaadil 
+	 urutan: 29, 
+	 latin: 'Al-`Adlu', 
+	 arab: 'الْعَدْلُ', 
+	 artinya: 'Yang Mahaadil', 
 },
 {
-	 urutan: 30 
-	 latin: Al-Lathîfu 
-	 arab: اللَّطِيْفُ 
-	 artinya: Yang Mahalembut 
+	 urutan: 30, 
+	 latin: 'Al-Lathîfu', 
+	 arab: 'اللَّطِيْفُ', 
+	 artinya: 'Yang Mahalembut', 
 },
 {
-	 urutan: 31 
-	 latin: Al-Khabîru 
-	 arab: الْخَبِيْرُ 
-	 artinya: Yang Maha Mengetahui Rahasia 
+	 urutan: 31, 
+	 latin: 'Al-Khabîru', 
+	 arab: 'الْخَبِيْرُ', 
+	 artinya: 'Yang Maha Mengetahui Rahasia', 
 },
 {
-	 urutan: 32 
-	 latin: Al-Ḫalîmu 
-	 arab: الْحَلِيْمُ 
-	 artinya: Yang Maha Penyantun 
+	 urutan: 32, 
+	 latin: 'Al-Ḫalîmu', 
+	 arab: 'الْحَلِيْمُ', 
+	 artinya: 'Yang Maha Penyantun', 
 },
 {
-	 urutan: 33 
-	 latin: Al-`Adhîmu 
-	 arab: الْعَظِيْمُ 
-	 artinya: Yang Mahaagung 
+	 urutan: 33, 
+	 latin: 'Al-`Adhîmu', 
+	 arab: 'الْعَظِيْمُ', 
+	 artinya: 'Yang Mahaagung', 
 },
 {
-	 urutan: 34 
-	 latin: Al-Ghafûru 
-	 arab: الْغَفُوْرُ 
-	 artinya: Yang Maha Pengampun 
+	 urutan: 34, 
+	 latin: 'Al-Ghafûru', 
+	 arab: 'الْغَفُوْرُ', 
+	 artinya: 'Yang Maha Pengampun', 
 },
 {
-	 urutan: 35 
-	 latin: Asy-Syakûru 
-	 arab: الشَّكُوْرُ 
-	 artinya: Yang Maha Pembalas Budi (Menghargai) 
+	 urutan: 35, 
+	 latin: 'Asy-Syakûru', 
+	 arab: 'الشَّكُوْرُ', 
+	 artinya: 'Yang Maha Pembalas Budi (Menghargai)', 
 },
 {
-	 urutan: 36 
-	 latin: Al-`Aliyyu 
-	 arab: العَلِيُّ 
-	 artinya: Yang Maha Tinggi 
+	 urutan: 36, 
+	 latin: 'Al-`Aliyyu', 
+	 arab: 'العَلِيُّ', 
+	 artinya: 'Yang Maha Tinggi', 
 },
 {
-	 urutan: 37 
-	 latin: Al-Kabîru 
-	 arab: الْكَبِيْرُ 
-	 artinya: Yang Maha Besar 
+	 urutan: 37, 
+	 latin: 'Al-Kabîru', 
+	 arab: 'الْكَبِيْرُ', 
+	 artinya: 'Yang Maha Besar', 
 },
 {
-	 urutan: 38 
-	 latin: Al-Ḫafîdhu 
-	 arab: الْحَفِيْظُ 
-	 artinya: Yang Maha Menjaga 
+	 urutan: 38, 
+	 latin: 'Al-Ḫafîdhu', 
+	 arab: 'الْحَفِيْظُ', 
+	 artinya: 'Yang Maha Menjaga', 
 },
 {
-	 urutan: 39 
-	 latin: Al-Muqîtu 
-	 arab: الْمُقِيْتُ 
-	 artinya: Yang Maha Pemberi Kecukupan 
+	 urutan: 39, 
+	 latin: 'Al-Muqîtu', 
+	 arab: 'الْمُقِيْتُ', 
+	 artinya: 'Yang Maha Pemberi Kecukupan', 
 },
 {
-	 urutan: 40 
-	 latin: Al-Ḫasîbu 
-	 arab: الْحَسِيْبُ 
-	 artinya: Yang Maha Membuat Perhitungan 
+	 urutan: 40, 
+	 latin: 'Al-Ḫasîbu', 
+	 arab: 'الْحَسِيْبُ', 
+	 artinya: 'Yang Maha Membuat Perhitungan', 
 },
 {
-	 urutan: 41 
-	 latin: Al-Jalîlu 
-	 arab: الْجَلِيْلُ 
-	 artinya: Yang Mahamulia 
+	 urutan: 41, 
+	 latin: 'Al-Jalîlu', 
+	 arab: 'الْجَلِيْلُ', 
+	 artinya: 'Yang Mahamulia', 
 },
 {
-	 urutan: 42 
-	 latin: Al-Karîmu 
-	 arab: الْكَرِيْمُ 
-	 artinya: Yang Maha Pemurah 
+	 urutan: 42, 
+	 latin: 'Al-Karîmu', 
+	 arab: 'الْكَرِيْمُ', 
+	 artinya: 'Yang Maha Pemurah', 
 },
 {
-	 urutan: 43 
-	 latin: Ar-Raqîbu 
-	 arab: الرَّقِيْبُ 
-	 artinya: Yang Maha Mengawasi 
+	 urutan: 43, 
+	 latin: 'Ar-Raqîbu', 
+	 arab: 'الرَّقِيْبُ', 
+	 artinya: 'Yang Maha Mengawasi', 
 },
 {
-	 urutan: 44 
-	 latin: Al-Mujîbu 
-	 arab: الْمُجِيْبُ 
-	 artinya: Yang Maha Mengabulkan 
+	 urutan: 44, 
+	 latin: 'Al-Mujîbu', 
+	 arab: 'الْمُجِيْبُ', 
+	 artinya: 'Yang Maha Mengabulkan', 
 },
 {
-	 urutan: 45 
-	 latin: Al-Wâsi`u 
-	 arab: الْوَاسِعُ 
-	 artinya: Yang Maha Luas 
+	 urutan: 45, 
+	 latin: 'Al-Wâsi`u', 
+	 arab: 'الْوَاسِعُ', 
+	 artinya: 'Yang Maha Luas', 
 },
 {
-	 urutan: 46 
-	 latin: Al-Ḫakîmu 
-	 arab: الْحَكِيْمُ 
-	 artinya: Yang Maha Maka Bijaksana 
+	 urutan: 46, 
+	 latin: 'Al-Ḫakîmu', 
+	 arab: 'الْحَكِيْمُ', 
+	 artinya: 'Yang Maha Maka Bijaksana', 
 },
 {
-	 urutan: 47 
-	 latin: Al-Wadûdu 
-	 arab: الْوَدُوْدُ 
-	 artinya: Yang Maha Pencinta 
+	 urutan: 47, 
+	 latin: 'Al-Wadûdu', 
+	 arab: 'الْوَدُوْدُ', 
+	 artinya: 'Yang Maha Pencinta', 
 },
 {
-	 urutan: 48 
-	 latin: Al-Majîdu 
-	 arab: الْمَجِيْدُ 
-	 artinya: Yang Maha Mulia 
+	 urutan: 48, 
+	 latin: 'Al-Majîdu', 
+	 arab: 'الْمَجِيْدُ', 
+	 artinya: 'Yang Maha Mulia', 
 },
 {
-	 urutan: 49 
-	 latin: Al-Bâ`itsu 
-	 arab: الْبَاعِثُ 
-	 artinya: Yang Maha Membangkitkan 
+	 urutan: 49, 
+	 latin: 'Al-Bâ`itsu', 
+	 arab: 'الْبَاعِثُ', 
+	 artinya: 'Yang Maha Membangkitkan', 
 },
 {
-	 urutan: 50 
-	 latin: Asy-Syahîdu 
-	 arab: الشَّهِيْدُ 
-	 artinya: Yang Maha Menyaksikan 
+	 urutan: 50, 
+	 latin: 'Asy-Syahîdu', 
+	 arab: 'الشَّهِيْدُ', 
+	 artinya: 'Yang Maha Menyaksikan', 
 },
 {
-	 urutan: 51 
-	 latin: Al-Ḫaqqu 
-	 arab: الْحَقُّ 
-	 artinya: Yang Mahabenar 
+	 urutan: 51, 
+	 latin: 'Al-Ḫaqqu', 
+	 arab: 'الْحَقُّ', 
+	 artinya: 'Yang Mahabenar', 
 },
 {
-	 urutan: 52 
-	 latin: Al-Wakîlu 
-	 arab: الْوَكِيْلُ 
-	 artinya: Yang Maha Memelihara 
+	 urutan: 52, 
+	 latin: 'Al-Wakîlu', 
+	 arab: 'الْوَكِيْلُ', 
+	 artinya: 'Yang Maha Memelihara', 
 },
 {
-	 urutan: 53 
-	 latin: Al-Qawiyyu 
-	 arab: الْقَوِيُّ 
-	 artinya: Yang Mahakuat 
+	 urutan: 53, 
+	 latin: 'Al-Qawiyyu', 
+	 arab: 'الْقَوِيُّ', 
+	 artinya: 'Yang Mahakuat', 
 },
 {
-	 urutan: 54 
-	 latin: Al-Matînu 
-	 arab: الْمَتِيْنُ 
-	 artinya: Yang Mahakokoh 
+	 urutan: 54, 
+	 latin: 'Al-Matînu', 
+	 arab: 'الْمَتِيْنُ', 
+	 artinya: 'Yang Mahakokoh', 
 },
 {
-	 urutan: 55 
-	 latin: Al-Waliyyu 
-	 arab: الْوَلِيُّ 
-	 artinya: Yang Maha Melindungi 
+	 urutan: 55, 
+	 latin: 'Al-Waliyyu', 
+	 arab: 'الْوَلِيُّ', 
+	 artinya: 'Yang Maha Melindungi', 
 },
 {
-	 urutan: 56 
-	 latin: Al-Ḫamîdu 
-	 arab: الْحَمِيْدُ 
-	 artinya: Yang Maha Terpuji 
+	 urutan: 56, 
+	 latin: 'Al-Ḫamîdu', 
+	 arab: 'الْحَمِيْدُ', 
+	 artinya: 'Yang Maha Terpuji', 
 },
 {
-	 urutan: 57 
-	 latin: Al-Muḫshî 
-	 arab: الْمُحْصِيْ 
-	 artinya: Yang Maha Mengalkulasi 
+	 urutan: 57, 
+	 latin: 'Al-Muḫshî', 
+	 arab: 'الْمُحْصِيْ', 
+	 artinya: 'Yang Maha Mengalkulasi', 
 },
 {
-	 urutan: 58 
-	 latin: Al-Mubdi’u 
-	 arab: الْمُبْدِئُ 
-	 artinya: Yang Maha Memulai 
+	 urutan: 58, 
+	 latin: 'Al-Mubdi’u', 
+	 arab: 'الْمُبْدِئُ', 
+	 artinya: 'Yang Maha Memulai', 
 },
 {
-	 urutan: 59 
-	 latin: Al-Mu`idu 
-	 arab: الْمُعِيْدُ 
-	 artinya: Yang Maha Mengembalikan Kehidupan 
+	 urutan: 59, 
+	 latin: 'Al-Mu`idu', 
+	 arab: 'الْمُعِيْدُ', 
+	 artinya: 'Yang Maha Mengembalikan Kehidupan', 
 },
 {
-	 urutan: 60 
-	 latin: Al-Muḫyi 
-	 arab: الْمُحْيِ 
-	 artinya: Yang Maha Menghidupkan 
+	 urutan: 60, 
+	 latin: 'Al-Muḫyi', 
+	 arab: 'الْمُحْيِ', 
+	 artinya: 'Yang Maha Menghidupkan', 
 },
 {
-	 urutan: 61 
-	 latin: Al-Mumîtu 
-	 arab: الْمُمِيْتُ 
-	 artinya: Yang Maha Mematikan 
+	 urutan: 61, 
+	 latin: 'Al-Mumîtu', 
+	 arab: 'الْمُمِيْتُ', 
+	 artinya: 'Yang Maha Mematikan', 
 },
 {
-	 urutan: 62 
-	 latin: Al-Ḫayyu 
-	 arab: الْحَيُّ 
-	 artinya: Yang Mahahidup 
+	 urutan: 62, 
+	 latin: 'Al-Ḫayyu', 
+	 arab: 'الْحَيُّ', 
+	 artinya: 'Yang Mahahidup', 
 },
 {
-	 urutan: 63 
-	 latin: Al-Qayyûmu 
-	 arab: الْقَيُّوْمُ 
-	 artinya: Yang Mahamandiri 
+	 urutan: 63, 
+	 latin: 'Al-Qayyûmu', 
+	 arab: 'الْقَيُّوْمُ', 
+	 artinya: 'Yang Mahamandiri', 
 },
 {
-	 urutan: 64 
-	 latin: Al-Wâjidu 
-	 arab: الْوَاجِدُ 
-	 artinya: Yang Maha Penemu 
+	 urutan: 64, 
+	 latin: 'Al-Wâjidu', 
+	 arab: 'الْوَاجِدُ', 
+	 artinya: 'Yang Maha Penemu', 
 },
 {
-	 urutan: 65 
-	 latin: Al-Mâjidu 
-	 arab: الْمَاجِدُ 
-	 artinya: Yang Mahamulia 
+	 urutan: 65, 
+	 latin: 'Al-Mâjidu', 
+	 arab: 'الْمَاجِدُ', 
+	 artinya: 'Yang Mahamulia', 
 },
 {
-	 urutan: 66 
-	 latin: Al-Wâḫidu 
-	 arab: الْوَاحِدُ 
-	 artinya: Yang Maha Tunggal 
+	 urutan: 66, 
+	 latin: 'Al-Wâḫidu', 
+	 arab: 'الْوَاحِدُ', 
+	 artinya: 'Yang Maha Tunggal', 
 },
 {
-	 urutan: 67 
-	 latin: Al-Aḫadu 
-	 arab: الْأَحَدُ 
-	 artinya: Yang Maha Esa 
+	 urutan: 67, 
+	 latin: 'Al-Aḫadu', 
+	 arab: 'الْأَحَدُ', 
+	 artinya: 'Yang Maha Esa', 
 },
 {
-	 urutan: 68 
-	 latin: Ash-Shamadu 
-	 arab: الصَّمَدُ 
-	 artinya: Yang Maha Dibutuhkan, Tempat Meminta 
+	 urutan: 68, 
+	 latin: 'Ash-Shamadu', 
+	 arab: 'الصَّمَدُ', 
+	 artinya: 'Yang Maha Dibutuhkan, Tempat Meminta', 
 },
 {
-	 urutan: 69 
-	 latin: Al-Qâdiru 
-	 arab: الْقَادِرُ 
-	 artinya: Yang Maha Menentukan, Maha Menyeimbangkan 
+	 urutan: 69, 
+	 latin: 'Al-Qâdiru', 
+	 arab: 'الْقَادِرُ', 
+	 artinya: 'Yang Maha Menentukan, Maha Menyeimbangkan', 
 },
 {
-	 urutan: 70 
-	 latin: Al-Muqtadiru 
-	 arab: الْمُقْتَدِرُ 
-	 artinya: Yang Maha Berkuasa 
+	 urutan: 70, 
+	 latin: 'Al-Muqtadiru', 
+	 arab: 'الْمُقْتَدِرُ', 
+	 artinya: 'Yang Maha Berkuasa', 
 },
 {
-	 urutan: 71 
-	 latin: Al-Muqaddimu 
-	 arab: الْمُقَدِّمُ 
-	 artinya: Yang Maha Mendahulukan 
+	 urutan: 71, 
+	 latin: 'Al-Muqaddimu', 
+	 arab: 'الْمُقَدِّمُ', 
+	 artinya: 'Yang Maha Mendahulukan', 
 },
 {
-	 urutan: 72 
-	 latin: Al-Muakhiru 
-	 arab: الْمُؤَخِّرُ 
-	 artinya: Yang Maha Mengakhirkan 
+	 urutan: 72, 
+	 latin: 'Al-Muakhiru', 
+	 arab: 'الْمُؤَخِّرُ', 
+	 artinya: 'Yang Maha Mengakhirkan', 
 },
 {
-	 urutan: 73 
-	 latin: Al-Awwalu 
-	 arab: الْاَوَّلُ 
-	 artinya: Yang Mahaawal 
+	 urutan: 73, 
+	 latin: 'Al-Awwalu', 
+	 arab: 'الْاَوَّلُ', 
+	 artinya: 'Yang Mahaawal', 
 },
 {
-	 urutan: 74 
-	 latin: Al-Âkhiru 
-	 arab: الْآخِرُ 
-	 artinya: Yang Mahaakhir 
+	 urutan: 74, 
+	 latin: 'Al-Âkhiru', 
+	 arab: 'الْآخِرُ', 
+	 artinya: 'Yang Mahaakhir', 
 },
 {
-	 urutan: 75 
-	 latin: Adh-Dhâhiru 
-	 arab: الظَّاهِرُ 
-	 artinya: Yang Mahanyata 
+	 urutan: 75, 
+	 latin: 'Adh-Dhâhiru', 
+	 arab: 'الظَّاهِرُ', 
+	 artinya: 'Yang Mahanyata', 
 },
 {
-	 urutan: 76 
-	 latin: Al-Bâthinu 
-	 arab: الْبَاطِنُ 
-	 artinya: Yang Maha Ghaib 
+	 urutan: 76, 
+	 latin: 'Al-Bâthinu', 
+	 arab: 'الْبَاطِنُ', 
+	 artinya: 'Yang Maha Ghaib', 
 },
 {
-	 urutan: 77 
-	 latin: Al-Wâlî 
-	 arab: الْوَالِي 
-	 artinya: Yang Maha Memerintah 
+	 urutan: 77, 
+	 latin: 'Al-Wâlî', 
+	 arab: 'الْوَالِي', 
+	 artinya: 'Yang Maha Memerintah', 
 },
 {
-	 urutan: 78 
-	 latin: Al-Muta`âli 
-	 arab: الْمُتَعَالِي 
-	 artinya: Yang Maha Tinggi 
+	 urutan: 78, 
+	 latin: 'Al-Muta`âli', 
+	 arab: 'الْمُتَعَالِي', 
+	 artinya: 'Yang Maha Tinggi', 
 },
 {
-	 urutan: 79 
-	 latin: Al-Barru 
-	 arab: الْبَرُّ 
-	 artinya: Yang Maha Penderma 
+	 urutan: 79, 
+	 latin: 'Al-Barru', 
+	 arab: 'الْبَرُّ', 
+	 artinya: 'Yang Maha Penderma', 
 },
 {
-	 urutan: 80 
-	 latin: At-Tawwabu 
-	 arab: التَّوَّابُ 
-	 artinya: Yang Maha Penerima Tobat 
+	 urutan: 80, 
+	 latin: 'At-Tawwabu', 
+	 arab: 'التَّوَّابُ', 
+	 artinya: 'Yang Maha Penerima Tobat', 
 },
 {
-	 urutan: 81 
-	 latin: Al-Muntaqimu 
-	 arab: الْمُنْتَقِمُ 
-	 artinya: Yang Maha Penuntut Balas 
+	 urutan: 81, 
+	 latin: 'Al-Muntaqimu', 
+	 arab: 'الْمُنْتَقِمُ', 
+	 artinya: 'Yang Maha Penuntut Balas', 
 },
 {
-	 urutan: 82 
-	 latin: Al-`Afuwwu 
-	 arab: الْعَفُوُّ 
-	 artinya: Yang Maha Pemaaf 
+	 urutan: 82, 
+	 latin: 'Al-`Afuwwu', 
+	 arab: 'الْعَفُوُّ', 
+	 artinya: 'Yang Maha Pemaaf', 
 },
 {
-	 urutan: 83 
-	 latin: Ar-Ra’ûfu 
-	 arab: الرَّؤُوْفُ 
-	 artinya: Yang Maha Pengasih 
+	 urutan: 83, 
+	 latin: 'Ar-Ra’ûfu', 
+	 arab: 'الرَّؤُوْفُ', 
+	 artinya: 'Yang Maha Pengasih', 
 },
 {
-	 urutan: 84 
-	 latin: Mâlikul-mulki 
-	 arab: مَالِكُ الْمُلْكِ 
-	 artinya: Yang Maha Penguasa Kerajaan (Semesta) 
+	 urutan: 84, 
+	 latin: 'Mâlikul-mulki', 
+	 arab: 'مَالِكُ الْمُلْكِ', 
+	 artinya: 'Yang Maha Penguasa Kerajaan (Semesta)', 
 },
 {
-	 urutan: 85 
-	 latin: Dzul-Jalâli wal-Ikram 
-	 arab: ذُوْ الْجَلَالِ وَالْاِكْرَامِ 
-	 artinya: Yang Maha Pemilik Kebesaran dan Kemuliaan 
+	 urutan: 85, 
+	 latin: 'Dzul-Jalâli wal-Ikram', 
+	 arab: 'ذُوْ الْجَلَالِ وَالْاِكْرَامِ', 
+	 artinya: 'Yang Maha Pemilik Kebesaran dan Kemuliaan', 
 },
 {
-	 urutan: 86 
-	 latin: Al-Muqsithu 
-	 arab: الْمُقْسِطُ 
-	 artinya: Yang Mahaadil 
+	 urutan: 86, 
+	 latin: 'Al-Muqsithu', 
+	 arab: 'الْمُقْسِطُ', 
+	 artinya: 'Yang Mahaadil', 
 },
 {
-	 urutan: 87 
-	 latin: Al-Jâmi`u 
-	 arab: الْجَامِعُ 
-	 artinya: Yang Maha Mengumpulkan 
+	 urutan: 87, 
+	 latin: 'Al-Jâmi`u', 
+	 arab: 'الْجَامِعُ', 
+	 artinya: 'Yang Maha Mengumpulkan', 
 },
 {
-	 urutan: 88 
-	 latin: Al-Ghaniyyu 
-	 arab: الْغَنِيُّ 
-	 artinya: Yang Maha Berkecukupan 
+	 urutan: 88, 
+	 latin: 'Al-Ghaniyyu', 
+	 arab: 'الْغَنِيُّ', 
+	 artinya: 'Yang Maha Berkecukupan', 
 },
 {
-	 urutan: 89 
-	 latin: Al-Mughnî 
-	 arab: الْمُغْنِيْ 
-	 artinya: Yang Maha Memberi Kekayaan 
+	 urutan: 89, 
+	 latin: 'Al-Mughnî', 
+	 arab: 'الْمُغْنِيْ', 
+	 artinya: 'Yang Maha Memberi Kekayaan', 
 },
 {
-	 urutan: 90 
-	 latin: Al-Mâni`u 
-	 arab: الْمَانِعُ 
-	 artinya: Yang Maha Mencegah 
+	 urutan: 90, 
+	 latin: 'Al-Mâni`u', 
+	 arab: 'الْمَانِعُ', 
+	 artinya: 'Yang Maha Mencegah', 
 },
 {
-	 urutan: 91 
-	 latin: Adl-Dlâru 
-	 arab: الضَّارُ 
-	 artinya: Yang Maha Memberi Derita 
+	 urutan: 91, 
+	 latin: 'Adl-Dlâru', 
+	 arab: 'الضَّارُ', 
+	 artinya: 'Yang Maha Memberi Derita', 
 },
 {
-	 urutan: 92 
-	 latin: An-Nâfi`u 
-	 arab: النَّافِعُ 
-	 artinya: Yang Maha Memberi Manfaat 
+	 urutan: 92, 
+	 latin: 'An-Nâfi`u', 
+	 arab: 'النَّافِعُ', 
+	 artinya: 'Yang Maha Memberi Manfaat', 
 },
 {
-	 urutan: 93 
-	 latin: An-Nûru 
-	 arab: النُّوْرُ 
-	 artinya: Yang Maha Bercahaya (Menerangi, Memberi Cahaya) 
+	 urutan: 93, 
+	 latin: 'An-Nûru', 
+	 arab: 'النُّوْرُ', 
+	 artinya: 'Yang Maha Bercahaya (Menerangi, Memberi Cahaya)', 
 },
 {
-	 urutan: 94 
-	 latin: Al-Hâdî 
-	 arab: الْهَادِيْ 
-	 artinya: Yang Maha Pemberi Petunjuk 
+	 urutan: 94, 
+	 latin: 'Al-Hâdî', 
+	 arab: 'الْهَادِيْ', 
+	 artinya: 'Yang Maha Pemberi Petunjuk', 
 },
 {
-	 urutan: 95 
-	 latin: Al-Badî`u 
-	 arab: الْبَدِيْعُ 
-	 artinya: Yang Maha Pencipta 
+	 urutan: 95, 
+	 latin: 'Al-Badî`u', 
+	 arab: 'الْبَدِيْعُ', 
+	 artinya: 'Yang Maha Pencipta', 
 },
 {
-	 urutan: 96 
-	 latin: Al-Bâqî 
-	 arab: الْبَاقِيْ 
-	 artinya: Yang Mahakekal 
+	 urutan: 96, 
+	 latin: 'Al-Bâqî', 
+	 arab: 'الْبَاقِيْ', 
+	 artinya: 'Yang Mahakekal', 
 },
 {
-	 urutan: 97 
-	 latin: Al-Wâritsu 
-	 arab: الْوَارِثُ 
-	 artinya: Yang Maha Pewaris 
+	 urutan: 97, 
+	 latin: 'Al-Wâritsu', 
+	 arab: 'الْوَارِثُ', 
+	 artinya: 'Yang Maha Pewaris', 
 },
 {
-	 urutan: 98 
-	 latin: Ar-Rasyîdu 
-	 arab: الرَّشِيْدُ 
-	 artinya: Yang Mahapandai 
+	 urutan: 98, 
+	 latin: 'Ar-Rasyîdu', 
+	 arab: 'الرَّشِيْدُ', 
+	 artinya: 'Yang Mahapandai', 
 },
 {
-	 urutan: 99 
-	 latin: Ash-Shabûru 
-	 arab: الصَّبُوْرُ 
-	 artinya: Yang Mahasabar 
+	 urutan: 99, 
+	 latin: 'Ash-Shabûru', 
+	 arab: 'الصَّبُوْرُ', 
+	 artinya: 'Yang Mahasabar', 
 },
